@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# thl-369 - My Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
