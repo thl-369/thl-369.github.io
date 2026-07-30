@@ -1,11 +1,10 @@
 
-/* --- 1. Variables (Modern Tech Palette) --- */
+/* --- 1. Variables (Forest Green Palette) --- */
 :root {
-    /* This template uses a professional "Modern Tech" color scheme. */
+    /* This template uses a professional "Forest Green" color scheme. */
     --primary-color: #1B4332;   /* Forest Green (was Midnight Blue) */
     --secondary-color: #2D6A4F; /* Medium Forest Green (was Slate Blue) */
     --accent-color: #52B788;    /* Bright Green Accent (was Vivid Sky Blue) */
-    ...
 
     /* --- Shared Variables (These usually don't need to change) --- */
     --light-bg-color: #F8F9FA;
@@ -99,7 +98,7 @@ header p {
 
 /* --- 4. Navigation --- */
 nav {
-    background-color: rgba(26, 42, 76, 0.95); /* Adjusted for new primary color */
+    background-color: rgba(27, 67, 50, 0.95); /* Adjusted for forest green primary color */
     backdrop-filter: blur(5px);
     position: sticky;
     top: 0;
@@ -392,7 +391,7 @@ nav ul li a:hover::after {
 .contact-form textarea:focus {
     outline: none;
     border-color: var(--accent-color);
-    box-shadow: 0 0 0 3px rgba(41, 182, 246, 0.25); /* Adjusted for new accent color */
+    box-shadow: 0 0 0 3px rgba(82, 183, 136, 0.25); /* Adjusted for forest green accent color */
 }
 
 .contact-form button.btn {
